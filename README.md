@@ -1,7 +1,6 @@
 # Deployment Instructions for Campus Club Event Management System
 
-This document details the exact changes and steps required to configure the project code, run it locally, and then deploy the full‐stack application in production.
-
+u guys needa do these steps
 ---
 
 ## 1. Local Setup: What to Edit and Test
@@ -222,4 +221,3 @@ This section covers deploying the backend (e.g., Heroku) and the frontend (e.g.,
      3. Deploy via Netlify, specifying `build` as the output folder.  
      4. Verify that your site fetches data from the live backend.
 
-With these steps and file edits, you’ll have a fully functional and deployed Campus Club Event Management System.
